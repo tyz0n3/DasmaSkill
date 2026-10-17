@@ -1,0 +1,6 @@
+{
+  "name": "DasmaSkill",
+  "description": "Skill-based service booking app with Weighted Priority Ranking for provider matching in Dasmariñas City",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
